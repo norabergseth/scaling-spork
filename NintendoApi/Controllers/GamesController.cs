@@ -2,7 +2,7 @@
 using NintendoApi.Models;
 using NintendoApi.Services;
 using Microsoft.AspNetCore.Mvc;
-using System.Colletions.Generic;
+using System.Collections.Generic;
 
 namespace NintendoApi.controllers {
 

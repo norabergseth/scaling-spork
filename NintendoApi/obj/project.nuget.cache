@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SHsF5wReAxMGE3jKEed8/y4jCdrGQPD2fOe8Mmh5k83DHIq4ysujzx/8ttt8Q8frGtTwfrAW390GsCtKMGxExQ==",
+  "dgSpecHash": "athOrFo/efXMZPILbJF1yZQr8dxPJVH+FaB5GqoPivreipmKxVFdyTDH7qt0M7Lc7mq6FmprHnP8kbWjT/+1zg==",
   "success": true,
-  "projectFilePath": "/Users/enabatlak/Desktop/NintendoApi/NintendoApi.csproj",
+  "projectFilePath": "/Users/enabatlak/Documents/GitHub/scaling-spork/NintendoApi/NintendoApi.csproj",
   "expectedPackageFiles": [
     "/Users/enabatlak/.nuget/packages/dnsclient/1.3.1/dnsclient.1.3.1.nupkg.sha512",
     "/Users/enabatlak/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
