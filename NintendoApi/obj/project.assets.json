@@ -4794,11 +4794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/enabatlak/Desktop/NintendoApi/NintendoApi.csproj",
+      "projectUniqueName": "/Users/enabatlak/Documents/GitHub/scaling-spork/NintendoApi/NintendoApi.csproj",
       "projectName": "NintendoApi",
-      "projectPath": "/Users/enabatlak/Desktop/NintendoApi/NintendoApi.csproj",
+      "projectPath": "/Users/enabatlak/Documents/GitHub/scaling-spork/NintendoApi/NintendoApi.csproj",
       "packagesPath": "/Users/enabatlak/.nuget/packages/",
-      "outputPath": "/Users/enabatlak/Desktop/NintendoApi/obj/",
+      "outputPath": "/Users/enabatlak/Documents/GitHub/scaling-spork/NintendoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/enabatlak/.nuget/NuGet/NuGet.Config"
