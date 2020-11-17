@@ -4789,19 +4789,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/enabatlak/.nuget/packages/": {}
+    "/Users/norabergseth/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "/Users/enabatlak/Desktop/NintendoApi/NintendoApi.csproj",
       "projectName": "NintendoApi",
       "projectPath": "/Users/enabatlak/Desktop/NintendoApi/NintendoApi.csproj",
       "packagesPath": "/Users/enabatlak/.nuget/packages/",
       "outputPath": "/Users/enabatlak/Desktop/NintendoApi/obj/",
+=======
+      "projectUniqueName": "/Users/norabergseth/Documents/GitHub/scaling-spork/NintendoApi/NintendoApi.csproj",
+      "projectName": "NintendoApi",
+      "projectPath": "/Users/norabergseth/Documents/GitHub/scaling-spork/NintendoApi/NintendoApi.csproj",
+      "packagesPath": "/Users/norabergseth/.nuget/packages/",
+      "outputPath": "/Users/norabergseth/Documents/GitHub/scaling-spork/NintendoApi/obj/",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/enabatlak/.nuget/NuGet/NuGet.Config"
+        "/Users/norabergseth/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
