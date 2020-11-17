@@ -9,15 +9,15 @@ namespace NintendoApi.controllers {
     [ApiController]
     [Route("[controller]")]
     public class GamesController : ControllerBase {
-        private readonly GamesService _gameService;
+        private readonly GamesService _gamesService;
 
         public GamesController(GamesService gamesService) {
-            _gameService = gamesService;
+            _gamesService = gamesService;
         }
 
         [HttpGet]
         public ActionResult<List<Games>> Get() {
-            return _gameService.Get();
+            return _gamesService.Get();
         }
     }
 }
